@@ -16,4 +16,4 @@ if (message.content.startsWith(${prefix}help)) {
 
 
 
-bot.login(process.env.NjkxMTQyMjEyNzI1MjQzOTA1.XnbwNA.OxHVT5wXoRutvfAmvUFhKUQW-_U);
+bot.login(process.env.${token});
