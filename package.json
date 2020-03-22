@@ -1,7 +1,7 @@
 {
   "name": "eft-cz-sk-helper",
   "version": "1.0.0",
-  "description": "Pomocník k Tarkovu",
+  "description": "bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
